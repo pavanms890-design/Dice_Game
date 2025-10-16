@@ -1,6 +1,6 @@
 # Dice_Game
 
-🎲 Multiplayer Dice Roll Game — CodeAlpha Internship Task
+🎲 Multiplayer Dice Roll Game
 
 This is a simple, text-based Multiplayer Dice Roll Game developed in Python .
 The game allows 2 to 4 players to take turns rolling a six-sided dice, aiming to reach a total score of 50 points first.
